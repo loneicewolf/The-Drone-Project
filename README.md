@@ -24,3 +24,9 @@ The Drone Project! I have bought a drone and will be modding it. Adding servo mo
   - [ ] Turbo/Boost (pressurized air with a motor)
   - [ ] grip-claw (servo motor)
   - [ ] extra fan
+
+
+# DISCLAIMER
+Obviously, there is laws about drones, at least where I am at (Sweden), so of course one has to follow the laws; Which is why this will only be a POC, used indoors, not to actually "be used". It's really just a fun project. Could also be some research that is interesting! 
+Thanks for reading.
+Do check **your** countries laws before trying to replicate this project **or** buy any drone what so ever.

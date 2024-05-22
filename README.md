@@ -13,7 +13,10 @@ The Drone Project! I have bought a drone and will be modding it. Adding servo mo
   - [ ] IR vision
   - [ ] thermal vision
   - [ ] radar 
-  - [ ] sonar(?) (**Echolocation**) <- even if this is for underwater mostly, I took some inspiration from this
+  - [ ] sonar(?) (**Echolocation**)
 
-  
-
+  ## Hardware 
+  - [ ] Wings
+  - [ ] Turbo/Boost (pressurized air with a motor)
+  - [ ] grip-claw (servo motor)
+  - [ ] extra fan

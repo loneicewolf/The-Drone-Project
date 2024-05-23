@@ -25,6 +25,10 @@ The Drone Project! I have bought a drone and will be modding it. Adding servo mo
   - [ ] grip-claw (servo motor)
   - [ ] extra fan
 
+# Extra goal
+- [ ] AI
+
+
 
 # DISCLAIMER
 Obviously, there is laws about drones, at least where I am at (Sweden), so of course one has to follow the laws; Which is why this will only be a POC, used indoors, not to actually "be used". It's really just a fun project. Could also be some research that is interesting! 
